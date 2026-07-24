@@ -30,17 +30,3 @@ FAWRY\_assignment/
 
 └── FAWRY\_assignment.sln # Visual Studio Solution
 
-
-
-Architecture and Design Principles
-
-Separation of Concerns: Clear boundary between data representations (CarDTO) and core logic (process\_layer).
-
-
-
-Data Transfer Object Pattern: Encapsulates data and facilitates safe transfer between layers.
-
-
-
-Business Processing Layer: Centralizes domain rules and logic handling.
-
