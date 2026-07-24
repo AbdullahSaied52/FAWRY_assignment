@@ -8,15 +8,11 @@ This repository contains the implementation of the technical assignment required
 
 
 
-\---
-
 
 
 \## Project Structure
 
 
-
-```text
 
 FAWRY\_assignment/
 
