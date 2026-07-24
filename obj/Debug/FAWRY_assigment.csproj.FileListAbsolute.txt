@@ -1,0 +1,13 @@
+D:\Back_end_1\FAWRY_assigment\bin\Debug\FAWRY_assigment.exe.config
+D:\Back_end_1\FAWRY_assigment\bin\Debug\FAWRY_assigment.exe
+D:\Back_end_1\FAWRY_assigment\bin\Debug\FAWRY_assigment.pdb
+D:\Back_end_1\FAWRY_assigment\bin\Debug\CarDTO.dll
+D:\Back_end_1\FAWRY_assigment\bin\Debug\process_layer.dll
+D:\Back_end_1\FAWRY_assigment\bin\Debug\CarDTO.pdb
+D:\Back_end_1\FAWRY_assigment\bin\Debug\process_layer.pdb
+D:\Back_end_1\FAWRY_assigment\obj\Debug\FAWRY_assigment.csproj.AssemblyReference.cache
+D:\Back_end_1\FAWRY_assigment\obj\Debug\FAWRY_assigment.csproj.CoreCompileInputs.cache
+D:\Back_end_1\FAWRY_assigment\obj\Debug\FAWRY_as.54A6326A.Up2Date
+D:\Back_end_1\FAWRY_assigment\obj\Debug\FAWRY_assigment.exe
+D:\Back_end_1\FAWRY_assigment\obj\Debug\FAWRY_assigment.pdb
+D:\Back_end_1\FAWRY_assigment\obj\Debug\FAWRY_assigment.exe.config
