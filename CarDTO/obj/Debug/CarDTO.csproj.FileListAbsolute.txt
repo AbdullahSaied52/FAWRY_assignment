@@ -1,0 +1,6 @@
+D:\Back_end_1\FAWRY_assigment\CarDTO\bin\Debug\CarDTO.dll
+D:\Back_end_1\FAWRY_assigment\CarDTO\bin\Debug\CarDTO.pdb
+D:\Back_end_1\FAWRY_assigment\CarDTO\obj\Debug\CarDTO.csproj.AssemblyReference.cache
+D:\Back_end_1\FAWRY_assigment\CarDTO\obj\Debug\CarDTO.csproj.CoreCompileInputs.cache
+D:\Back_end_1\FAWRY_assigment\CarDTO\obj\Debug\CarDTO.dll
+D:\Back_end_1\FAWRY_assigment\CarDTO\obj\Debug\CarDTO.pdb
